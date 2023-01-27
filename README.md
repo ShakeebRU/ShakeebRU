@@ -20,10 +20,10 @@
  
  </span>
 </td>
-<td>
+<td align="center">
 <span>
- <img src="https://streak-stats.demolab.com/?user=ShakeebRU&theme=dark" />
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&layout=compact&theme=dark" />
+ <img src="https://streak-stats.demolab.com/?user=ShakeebRU&theme=dark" />
 </span>
 </td>
 </tr>
