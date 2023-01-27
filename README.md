@@ -9,6 +9,7 @@
 <b> Teach Flutter DEVELOPMENT </b>
 
 ## Shakeeb Raza Ullah's Github Stats
+<p align="center"></p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ShakeebRU&theme=dark)](https://git.io/streak-stats)
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats) </span>
 <span>
