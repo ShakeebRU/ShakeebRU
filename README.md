@@ -13,7 +13,7 @@
 <tr>
 <td>
 <span>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&langs_count=8&theme=dark(https://github.com/anuraghazra/github-readme-stats" />  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&langs_count=8&theme=dark/>  
  
  </span>
 </td>
