@@ -12,6 +12,9 @@
 <table>
 <tr>
 <td>
+ <p>
+  Top Languages
+  </p>
 <span>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&langs_count=8&theme=dark"/>  
  
