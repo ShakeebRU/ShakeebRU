@@ -4,7 +4,7 @@
 <br>
  <b>I’m currently working on Flutter Development,UI - UX , REST API's and Firebase</b>
  <br>
-<b> I’m currently Working on Flutter Development IOs and android apps </b>
+<b>IOs and android apps using Flutter Developement </b>
  <br>
 <b> Teach Flutter DEVELOPMENT </b>
 
