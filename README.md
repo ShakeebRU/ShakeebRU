@@ -15,6 +15,7 @@
  <p>
   Top Languages
   </p>
+ <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <span>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&langs_count=8&theme=dark"/>  
  
