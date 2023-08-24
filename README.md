@@ -23,7 +23,7 @@
 </td>
 <td align="center">
 <span>
- <img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakeebRU&show_icons=true&theme=transparent)" />
+ <img src="https://github-readme-stats.vercel.app/api?username=ShakeebRU&show_icons=true&theme=transparent" />
  
  <img src="https://streak-stats.demolab.com/?user=ShakeebRU&theme=dark" />
 </span>
