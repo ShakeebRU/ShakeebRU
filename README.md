@@ -15,7 +15,7 @@
  <p>
   Top Languages
   </p>
- <img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+ <img src="https://myreadme.vercel.app/api/embed/ShakeebRU?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <span>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&langs_count=8&theme=dark"/>  
  
@@ -23,7 +23,8 @@
 </td>
 <td align="center">
 <span>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&layout=compact&theme=dark" />
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&layout=compact&theme=dark" /> -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakeebRU&show_icons=true&theme=transparent)
  <img src="https://streak-stats.demolab.com/?user=ShakeebRU&theme=dark" />
 </span>
 </td>
