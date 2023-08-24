@@ -13,15 +13,7 @@
 <tr>
  
  <img src="https://myreadme.vercel.app/api/embed/ShakeebRU?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
-<td>
- <p>
-  Top Languages
-  </p>
-<span>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShakeebRU&langs_count=8&theme=dark"/>  
- 
- </span>
-</td>
+
 <td align="center">
 <span>
  <img src="https://github-readme-stats.vercel.app/api?username=ShakeebRU&show_icons=true&theme=transparent" />
