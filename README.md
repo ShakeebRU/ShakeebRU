@@ -16,7 +16,6 @@
 
 <td align="center">
 <span>
- <img src="https://github-readme-stats.vercel.app/api?username=ShakeebRU&show_icons=true&theme=dark" />
 
 </span>
 </td>
