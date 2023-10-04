@@ -17,8 +17,7 @@
 <td align="center">
 <span>
  <img src="https://github-readme-stats.vercel.app/api?username=ShakeebRU&show_icons=true&theme=dark" />
- 
- <img src="https://streak-stats.demolab.com/?user=ShakeebRU&theme=dark" />
+
 </span>
 </td>
 </tr>
