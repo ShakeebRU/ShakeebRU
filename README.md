@@ -14,13 +14,13 @@
  
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShakeebRU&theme=github_dark" />
 
+</tr>
+<tr>
 <td align="center">
-<span>
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShakeebRU&theme=github_dark&exclude=rust" />
 
-</span>
 </td>
 </tr>
-
 </table>
 
 <br/>
