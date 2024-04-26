@@ -12,7 +12,7 @@
 <table>
 <tr>
  
- <img src="[https://myreadme.vercel.app/api/embed/ShakeebRU?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShakeebRU&theme=github_dark)" />
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShakeebRU&theme=github_dark" />
 
 <td align="center">
 <span>
