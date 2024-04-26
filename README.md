@@ -16,10 +16,7 @@
 
 </tr>
 <tr>
-<td align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShakeebRU&theme=github_dark&exclude=rust" />
-
-</td>
 </tr>
 </table>
 
